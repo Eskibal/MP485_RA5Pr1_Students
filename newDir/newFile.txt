@@ -1,1 +1,0 @@
-[Alumno | Nombre = we / Apellido = wa /  Edad = 2 / Curso = ws / DNI = wd, Alumno | Nombre = a / Apellido = a /  Edad = 1 / Curso = a / DNI = a]
